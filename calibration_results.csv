@@ -1,0 +1,246 @@
+question_id,composite_score,is_truly_answerable,generated_answer
+Q159,0.0,True,
+Q086,0.5543478260869565,True,"If plagiarism is detected in course work and assignments, the following applies: in partial or non-serious cases, half the total possible marks of the assignment are struck off; in serious cases, a zero policy applies where all offending assignments are awarded a mark of zero. The level of seriousness is at the discretion of the lecturer, and appeals are possible through relevant channels."
+Q156,0.0,True,
+Q285,0.0,True,
+Q008,0.56,True,"The deadline for the ICS Project 1 concept paper is April 24th, 2026, at 11:59 pm."
+Q094,0.4714285714285714,True,The first CAT happens in week 6.
+Q209,0.43333333333333335,True,The lecturer's phone number for ICS 2206 is 0726768559.
+Q135,0.0,True,
+Q238,0.51,True,The end-of-semester examination is worth 60% of the total course assessment.
+Q080,0.54,True,"No, there will be no make-up CATs for this course."
+Q345,0.09,False,The provided context does not contain information regarding where to purchase the textbook or its price.
+Q021,0.0,True,
+Q097,0.58125,True,"The communication channels used by the lecturer are e-mail, phone, the module leader, and a direct messaging service."
+Q042,0.4875,True,The examination is worth 60% of the total grade.
+Q165,0.592539340799505,True,"The course lists five core reading materials: 1) Guha, S., 2022. Computer Graphics Through OpenGL®: From Theory to Experiments (4th Ed.); 2) Marschner, S. and Shirley, P., 2021. Fundamentals of Computer Graphics (5th Ed.); 3) Gordon, V.S. and Clevenger, J.L., 2023. Computer Graphics Programming in OpenGL with C++ (3rd Ed.); 4) Lehn, K., Gotzes, M. and Klawonn, F., 2023. Introduction to Computer Graphics: Using OpenGL and Java (3rd Ed.); 5) Pharr, M., Jakob, W. and Humphreys, G., 2023. Physically Based Rendering: From Theory to Implementation (4th Ed.)."
+Q078,0.5,True,The main examination is worth 60% of the total grade.
+Q312,0.5454545454545454,True,The total coursework weighting for ICS 3204 Computer Graphics is 40%.
+Q142,0.4666666666666667,True,The first CAT (CAT 1) happens in week 6.
+Q265,0.0,True,
+Q212,0.49411764705882355,True,"Yes, lab assignments are graded as part of the coursework, which accounts for 15% of the total assessment weighting."
+Q119,0.5935350275039672,True,The prerequisites for ICS 1201 are ICS 1102: Object Oriented Programming I and ICS 1104: Discrete Mathematics.
+Q095,0.5666666666666667,True,"The prerequisites for ICS 2206: Probability and Statistics I are Linear Algebra, Discrete Mathematics, Differential Calculus, and Integral Calculus."
+Q124,0.4666666666666667,True,CAT 2 is scheduled for weeks 7 and 8.
+Q079,0.5,True,"Yes, WhatsApp is listed as one of the communication channels for the course."
+Q262,0.5,True,The examination weighting for ICS 3111 Microprocessors is 60%.
+Q347,0.0,False,
+Q036,0.0,True,
+Q313,0.18,False,The provided context does not contain the exact date and time of the final examination for HHE 3208 Business Ethics.
+Q289,0.5,True,"The communication channels for the course include e-mail, unit/module leaders, and the e-learning platform."
+Q331,0.0,False,
+Q248,0.4928571428571429,True,"The total coursework weighting is 40%, consisting of 10% for CAT and 30% for projects."
+Q037,0.08233978748321534,True,
+Q233,0.4714285714285714,True,"The Module Leaders are Moses Wawere (D), Ishmael Tom (E), or Issa Abdulkadir (F)."
+Q126,0.48333333333333334,True,"Yes, Labs & Assignments are graded as a component of the course assessment, accounting for 10% of the total grade."
+Q288,0.0,True,
+Q140,0.5742857142857143,True,"Plagiarism is a serious offence. In partial or non-serious cases, half the total possible marks of the assignment are struck off. In serious cases, a zero policy applies where all offending assignments are awarded a mark of zero. The level of seriousness is at the discretion of the lecturer."
+Q120,0.4636363636363636,True,The Labs & Assignments component accounts for 10% of the final grade.
+Q007,0.5142857142857142,True,CAT 1 is scheduled for week 4-6.
+Q010,0.5142857142857142,True,"No, there will be no make-up CATs."
+Q025,0.6,True,Students will work in groups of 2.
+Q087,0.5891566265060241,True,"The core textbooks for ICS 2206 are: 1. Rachev, S. T., Hoechstoetter, M., Fabozzi, F. J., & Focardi, S. M. (2010). Probability and Statistics for Finance. 2. Ross, S. M. (2014). A First Course in Probability. 3. Ruppert, D., & Matteson, D. S. (2015). Statistics and Data Analysis for Financial Engineering: with R examples. 4. Sclove, S. L. (2012). A Course on Statistics for Finance. 5. Anderson, D., Sweeney, D., & Williams, T. (2014). Modern Business Statistics with Microsoft Excel. The recommended reference textbooks are: 1. Veaux, R. D. De, Velleman, P. F., & Bock, D. E. (2013). Intro Stats. 2. Anderson, D., Sweeney, D., Williams, T., Camm, J., & Cochran, J. (2013). Statistics for Business & Economics. 3. Hogg, R. V., Tanis, E., & Zimmerman, D. (2014). Probability and Statistical Inference."
+Q181,0.09923076923076923,True,The provided context does not contain information regarding the required referencing style for assignments.
+Q043,0.5003712452374971,True,"You can contact the lecturer, Mr. Robert Otieno Odero, via email at rotieno@strathmore.edu."
+Q091,0.4647230286752024,True,"You can contact the lecturer, James N. Gikera, via email at jgikera@strathmore.edu, or by visiting his office at AD1F7 (next to the Corporate Lab) during his office hours, which are Monday from 9-12pm and 3-5pm."
+Q330,0.135,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q032,0.4392857142857143,False,The provided context does not contain the exact weighting breakdown of individual chapters within the final documentation grade; it only specifies that the final documentation as a whole is worth 30% of the total marks.
+Q328,0.41428571428571426,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails ICS 2204.
+Q210,0.0,True,
+Q333,0.4421052631578947,False,The provided context does not contain the exact date and time of the final examination for ICS 3102 Mobile Application Development.
+Q051,0.506896551724138,True,"The core reading materials for ICS 2203 are 'Data Communications and Networking' by Behrouz Forouzan (5th ed., 2012) and 'Computer Networking: A Top-Down Approach' by James Kurose and Keith Ross (7th ed., 2016)."
+Q150,0.0,True,
+Q162,0.0,True,
+Q192,0.44999999999999996,True,The second CAT is scheduled for week 12.
+Q305,0.0,True,
+Q195,0.4588235294117647,True,"You can contact the lecturer, Alice Muia, via email at amuia@strathmore.edu or by visiting the Jasiri Staff room."
+Q110,0.5625,True,"If plagiarism is detected, the following applies: in partial or non-serious cases, half the total possible marks of the assignment are struck off. In serious cases, a zero policy applies, meaning all offending assignments will be awarded a mark of zero. The level of seriousness is at the discretion of the lecturer."
+Q246,0.52,True,"In the ICS 1201 course, CATs account for 10% and projects account for 30% of the total assessment."
+Q083,0.0,True,
+Q332,0.0,False,
+Q157,0.5142857142857142,True,"The lecturer for ICS 2211 Digital Logic is C. Mkabane, and their email is cmkabane@strathmore.edu."
+Q260,0.48919521967569984,True,The end-of-semester examination is worth 60% of the total grade.
+Q131,0.5611115074157715,True,"The prerequisites for ICS 2204 are Introduction to Programming, Data Structures and Algorithms, Object-Oriented Programming I & II, Web Application Development, Database Systems, System Analysis and Design/Software Engineering, and Communication Skills I & II."
+Q081,0.0,True,
+Q342,0.46499999999999997,False,"The provided context does not specify the room for the ICS 3204 Computer Graphics class, stating only that students should refer to the official timetable and that lecture rooms may change from time to time."
+Q029,0.48,False,"The provided context does not specify the room for the ICS 3204 Computer Graphics lecture, stating only that students should refer to the official timetable and that lecture rooms may change from time to time."
+Q302,0.0,True,
+Q270,0.4882003943125407,True,The Labs Practical counts for 20% of the final grade.
+Q099,0.5695226365869694,True,"The core textbook for the course is 'Data Structures and Algorithms in Python' by Goodrich M., Tamassia T and Goldwasser M.H., 2013, Sixth Edition."
+Q278,0.0,True,
+Q170,0.5234042553191489,True,"If plagiarism is detected, the consequences depend on the severity: in partial or non-serious cases, half the total possible marks for the assignment are deducted. In serious cases, such as whole duplication of a paper, a zero policy applies and the assignment receives a mark of zero. The level of seriousness is determined at the discretion of the lecturer, and appeals are possible through relevant channels."
+Q105,0.5600783007485526,True,"The recommended course text is 'Data Structures and Algorithms in Python' by Goodrich M., Tamassia T and Goldwasser M.H., 2013, Sixth Edition."
+Q129,0.0,True,
+Q134,0.5195121951219512,True,"If plagiarism is detected, the consequences depend on the severity: in partial or non-serious cases, half the total possible marks of the assignment are struck off; in serious cases, a zero policy applies where all offending assignments are awarded a mark of zero. The level of seriousness is determined at the lecturer's discretion."
+Q236,0.5333333333333333,True,The lecturer's office is located at AD 1F 8.
+Q164,0.0,True,
+Q161,0.4978487363228431,True,"Yes, the prerequisite for ICS 3111 Microprocessors is Digital Electronics and Assembly Language."
+Q284,0.0,True,
+Q206,0.0,True,
+Q190,0.4875,True,"The lecturer for ICS 2206: Probability and Statistics I is Alice Muia, and her email address is amuia@strathmore.edu."
+Q244,0.44705048969813754,True,"The coursework/continuous assessment portion of the grade consists of CAT (10%) and Projects (30%), totaling 40%."
+Q033,0.39999999999999997,False,The provided context does not contain information regarding supplementary or resit exams.
+Q182,0.4714285714285714,True,The first CAT happens in week 5.
+Q022,0.6,True,"If you miss more than 33.3% of the classes, you will not be qualified to sit for the end-of-semester examination (final presentation) for this unit."
+Q223,0.575,True,The examination weighting for ICS 2206: Probability and Statistics I is 70%.
+Q189,0.5249999999999999,True,The examination weighting for ICS 2211 is 60%.
+Q232,0.4714285714285714,True,The total weighting for coursework (CATs and Assignments) is 30% (20% for CATs and 10% for Assignments).
+Q327,0.42833333333333334,False,"The provided context does not specify an exact date and time for a final examination; it only mentions that the final presentations/panel defense occur in weeks 14 and 16, and the final documentation is due on July 7th, 2026, at 11 am."
+Q269,0.5361517949537797,True,"You can contact the lecturers, Vincent Mbandu or Daniel Machanje, via their email addresses (vochango@strathmore.edu and dmachanje@strathmore.edu) to make appointments or to inform them of any absenteeism from class. You may also visit the staffroom in Jasiri (Phase I, Central Building) for consultation by appointment between 08:15 and 17:15."
+Q018,0.43999999999999995,True,"No, WhatsApp is not an acceptable communication channel; the course outline explicitly states '(NO WhatsApp)'."
+Q014,0.16125,False,The provided context does not contain information regarding prerequisites for the ICS 3101 Advanced Database Systems course.
+Q266,0.4720690096125883,True,"Coursework accounts for 40% of the total grade, which includes CAT 1 and CAT 2, each worth 20%."
+Q057,0.54,True,"The core reading materials for the course are: 1. Data Communications and Networking by Behrouz Forouzan (5th ed., 2012) and 2. Computer Networking: A Top-Down Approach by James Kurose and Keith Ross (7th ed., 2016)."
+Q114,0.495,True,"Yes, the Term Project (CAT 3) is a separate grade component in ICS 2203 Advanced Networking, with a weighting of 10%."
+Q253,0.4846153846153846,True,"The communication channels are e-mail, unit/module leaders, and the e-learning platform. WhatsApp is prohibited."
+Q224,0.52,True,"Communication channels for the course include E-mail, the Strathmore University E-Learning System (SUES), and the Module Leader."
+Q250,0.5454545454545454,True,Projects are worth 30% of the total assessment for ICS 1201.
+Q067,0.5512827062606811,True,The Module Leader for HHE 3208 Business Ethics is Tanvi.
+Q268,0.5776305198669434,True,The total coursework weighting is 40%.
+Q274,0.0,True,
+Q168,0.0,True,
+Q071,0.0,True,
+Q127,0.49990804672241207,True,"The lecturer for ICS 3101 Advanced Database Systems is Julliet Kirui, and her email is jkirui@strathmore.edu."
+Q015,0.6076814851453227,True,"The pre-requisites for ICS Project 1 are Introduction to Programming, Data Structures and Algorithms, Object-Oriented Programming I & II, Web Application Development, Database Systems, System Analysis and Design/Software Engineering, and Communication Skills I & II."
+Q006,0.4615384615384615,True,"Yes, lab assignments and CATs are graded separately. According to the assessment breakdown, Lab Assignments account for 15% of the total grade, while CATs (CAT 1 & 2) account for 10% of the total grade."
+Q061,0.47523821830749513,True,"The lecturer for HHE 3208 Business Ethics is Mr. Robert Otieno Odero, and the phone number provided for the Module Leader, Tanvi, is 0737463855."
+Q287,0.0,True,
+Q197,0.0,True,
+Q085,0.50625,True,"The lecturer for ICS 2203 Advanced Networking is James N. Gikera, and his email address is jgikera@strathmore.edu."
+Q069,0.0,True,
+Q279,0.0,True,
+Q273,0.11,True,The provided context does not contain information regarding how announcements will be communicated in the course.
+Q198,0.0,True,
+Q193,0.55,True,"Yes, you need the following prerequisites: Introduction to Programming, Object-Oriented Programming I and II, Web Application Development, Database I and II, System Analysis and Design, and Data Structures and Algorithms."
+Q298,0.48,True,"Yes, the project is a separate grade component in ICS 3102 Mobile Application Development, accounting for 20% of the total grade."
+Q179,0.4846153846153846,True,The examination accounts for 60% of the final grade in ICS 2211 Digital Logic.
+Q322,0.135,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q013,0.0,True,
+Q028,0.475,False,The Module Leader for ICS 3111 Microprocessors is TBD (To Be Determined).
+Q300,0.4764705882352941,True,"Yes, lab work is graded separately in ICS 3102, accounting for 10% of the total academic assessment."
+Q059,0.0,True,
+Q211,0.5562141418457032,True,The prerequisite for ICS 3204 Computer Graphics is ICS 1202 – Object Oriented Programming I; Java Programming.
+Q310,0.4780356595390721,True,"40% of the grade for ICS 3204 comes from coursework (CAT 1 & 2, Assignments & Quizzes, and Group Work)."
+Q275,0.5,True,The consultation times are 08:15 – 17:15 (through appointment).
+Q160,0.55,True,"The Concept Paper is due on April 24th, 2026, at 11:59 pm."
+Q340,0.4336363636363636,False,"The provided context does not specify the meeting time for Group D's ICS 2211 Digital Logic lecture, stating only to refer to the official timetable."
+Q145,0.0,True,
+Q004,0.48,True,"There are two CATs in the course (CAT 1 and CAT 2), and they contribute to a total of 10% of the course assessment."
+Q335,0.0,False,
+Q106,0.4875,True,The second CAT is scheduled for Week 12.
+Q346,0.42428571428571427,False,The provided context does not contain the exact weighting breakdown of individual chapters within the final documentation grade; it only specifies that the final documentation as a whole accounts for 30% of the total assessment.
+Q121,0.43636363636363634,True,"The lecturer's office is located at AD1F7, next to the Corporate Lab."
+Q255,0.3532258064516129,True,"The provided context does not specify how announcements will be communicated, other than mentioning that lecture rooms may change and it is important to keep track of communication from the module leader."
+Q011,0.5076923076923077,True,Final presentations for ICS 2204 ICS Project 1 happen in Week 14 and Week 16.
+Q245,0.5684210526315789,True,"Students should email Daniel Machanje for Groups A, B, C & D and Emmanuel Olang for Groups E & F. Critical issues should be communicated to the course administrator Yvonne Karanja or Caroline Muthoni Kaburu, with a copy sent to the respective group lecturer."
+Q258,0.44511086940765376,True,The examination accounts for 60% of the final grade.
+Q295,0.30428571428571427,True,"The provided context does not specify the weight of CATs and coursework for a course named 'ICS 3102 Mobile Application Development'. It only lists the assessment breakdown for the course as: Project (20%), Lab work (10%), CAT I (10%), and Examination (60%)."
+Q320,0.0,False,
+Q130,0.4421052631578947,True,"The second CAT (CAT 2) is scheduled during weeks 7 and 8, which cover the topic of Introduction to probability."
+Q286,0.0,True,
+Q337,0.4395652173913044,False,The provided context does not contain the exact date and time of the final examination for ICS 3204; it only states to refer to the official timetable.
+Q023,0.0,True,
+Q221,0.5142857142857142,True,"The communication channels used are E-mail, SUES (Strathmore University E-Learning System), and the Module Leader."
+Q208,0.5009945551554362,True,Lab Assignments count for 15% of the final grade.
+Q304,0.0,True,
+Q133,0.38390691930597476,True,"You can contact the lecturer, Julliet Kirui, via email at jkirui@strathmore.edu."
+Q128,0.6,True,"If you miss more than 33.3% of the classes, you will not be qualified to sit for the end-of-semester examination (final presentation) for this unit."
+Q334,0.40499999999999997,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q256,0.4736842105263158,True,"Yes, the Final Oral Presentation is a separate grade component in ICS 2204, accounting for 35% of the total marks."
+Q003,0.44999999999999996,True,"The group assignment is part of the CAT grade, which consists of 2 sit-in CATs and 1 group assignment, totaling 40% of the overall assessment."
+Q293,0.44999999999999996,True,The examination weighting for ICS 3102 is 60%.
+Q186,0.0,True,
+Q317,0.2036842105263158,False,The provided context does not contain the exact date and time of the final examination for ICS 3101 Advanced Database Systems.
+Q132,0.0,True,
+Q030,0.43333333333333335,False,The provided context does not contain the exact date and time of the final exam for ICS 2203 Advanced Networking.
+Q201,0.5625,True,"Plagiarism is a serious offence. In partial or non-serious cases, half the total possible marks of the assignment are struck off. In serious cases, such as whole duplication of a paper, a zero policy applies, meaning all offending assignments are awarded a mark of zero. The level of seriousness is at the discretion of the lecturer."
+Q082,0.0,True,
+Q046,0.475,True,CAT 1 is scheduled to take place between weeks 4 and 6.
+Q055,0.41285714285714287,True,"The provided context does not specify how announcements will be communicated, only listing communication channels as the Module Leader, Whatsapp, and E-mail."
+Q252,0.4764705882352941,True,"Yes, Projects are a separate grade component in ICS 1201, accounting for 30% of the total assessment."
+Q222,0.0,True,
+Q180,0.5307692307692308,True,The lecturer's phone number for ICS 2211: Digital Logic is 0706 926 393.
+Q024,0.0,False,
+Q314,0.345,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q019,0.54,True,You should email Emmanuel Olang.
+Q109,0.54,True,The enrollment key for ICS 2203: Advanced Networking is ADN2025!
+Q152,0.0,True,
+Q044,0.4125,True,The provided context does not contain information regarding the plagiarism policy for the HHE 3208 Business Ethics course.
+Q020,0.5142857142857142,True,The office hours for the lecturer of ICS 2203 are Monday from 9-12pm and 3-5pm.
+Q267,0.4826086956521739,True,"The lecturers for ICS 3102 are Vincent Mbandu (for sections A, B, and C) with the email vochango@strathmore.edu, and Daniel Machanje (for sections D, E, and F) with the email dmachanje@strathmore.edu."
+Q325,0.46875,False,The provided context does not contain the exact date and time of the final examination for ICS 1201.
+Q122,0.5700000000000001,True,The recommended referencing style for ICS 2204 is APA style.
+Q112,0.4714285714285714,True,CAT 1 is scheduled for week 4.
+Q068,0.58125,True,"If plagiarism is detected in any form in course work and assignments, the following will apply: a. In partial or non-serious cases, half the total possible marks of the assignment are struck off. b. In serious cases, a zero policy will apply, meaning all offending assignments will be awarded a mark of zero. The level of seriousness is at the discretion of the lecturer."
+Q063,0.0,True,
+Q291,0.44999999999999996,True,"Announcements will be communicated via e-mail, unit/module leaders, and the e-learning platform."
+Q348,0.42,False,"The course outline indicates that there is a field for a Module Leader, but it is left blank and no name is provided."
+Q241,0.4875,True,The examination weighting for ICS 1201 is 60%.
+Q215,0.5767972469329834,True,The prerequisite for ICS 3204 Computer Graphics is ICS 1202 – Object Oriented Programming I; Java Programming.
+Q139,0.5181818181818182,True,The enrollment key for ICS 3101: Advanced Database Systems is ADBDEF#@2026.
+Q072,0.4666666666666667,True,The main examination accounts for 60% of the final grade.
+Q101,0.54,True,"The prerequisites for ICS 2206 are Linear Algebra, Discrete Mathematics, Differential Calculus, and Integral Calculus."
+Q242,0.5538461538461539,True,"You should write an email to Daniel Machanje for Groups A, B, C & D and to Emmanuel Olang for Groups E & F. For any critical issues, you should also communicate with the course administrator (Yvonne Karanja or Caroline Muthoni Kaburu) and copy the respective group lecturer."
+Q251,0.43,True,"You can contact the lecturers, D. Ruiru and N. Njiru, via their email addresses {druiru}/{nnjiru}@strathmore.edu. For consultation, you should check with the lecturer, and they can be found in the staffroom (Shubavu for N. Njiru, and the Corporate Lab/staffroom for D. Ruiru)."
+Q107,0.5249999999999999,True,"Yes, the prerequisites for ICS 2206 are Linear Algebra, Discrete Mathematics, Differential Calculus, and Integral Calculus."
+Q199,0.48333333333333334,True,"Coursework, which includes CAT 1 & 2, assignments, quizzes, and lab assignments, accounts for 40% of the total grade."
+Q216,0.54,True,The examination accounts for 70% of the final grade in ICS 2206: Probability and Statistics I.
+Q123,0.54,True,"The core reading material is 'Microprocessor Architecture, Programming and Applications with 8085, Fifth Edition' by Ramesh Gaonkar. The recommended reference material is 'Understanding 8085/8086 Microprocessors and Peripheral ICs' by S.K.Sen."
+Q296,0.43333333333333335,True,The total coursework weighting for ICS 3102 is 100%.
+Q088,0.5142857142857142,True,CAT 1 is scheduled for week 6.
+Q048,0.5659716749191284,True,The examination weighting for HHE 3208 Business Ethics is 60%.
+Q117,0.5538233423233032,True,"The core reading material is 'Microprocessor Architecture, Programming and Applications with 8085, Fifth Edition' by Ramesh Gaonkar. The recommended reference material is 'Understanding 8085/8086 Microprocessors and Peripheral ICs' by S.K.Sen."
+Q188,0.5625,True,"The prerequisites for ICS 3102 are Introduction to Programming, Object-Oriented Programming I and II, Web Application Development, Database I and II, System Analysis and Design, and Data Structures and Algorithms."
+Q073,0.44943462501872666,True,"You should contact Tanvi, who is listed as the Module Leader."
+Q173,0.0,True,
+Q349,0.37,False,The provided context does not specify the maximum group size for the class project.
+Q089,0.5181818181818182,True,"Yes, the prerequisite for ICS 2211: Digital Logic is Discrete Mathematics."
+Q318,0.345,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q153,0.0,True,
+Q098,0.5533333333333332,True,"If plagiarism is detected, the following applies: a) In partial or non-serious cases, half the total possible marks of the assignment are struck off. b) In serious cases, a zero policy applies where all offending assignments are awarded a mark of zero. The level of seriousness is at the discretion of the lecturer, and appeals are possible through relevant channels."
+Q237,0.4714285714285714,True,The first CAT happens in week 6.
+Q146,0.5142857142857142,True,"No, there will be no make-up CATs."
+Q185,0.39,True,You should request a consultation with the lecturer via email.
+Q247,0.42000000000000004,True,The provided context does not contain information regarding how announcements will be communicated in ICS 2204.
+Q100,0.5142857142857142,True,CAT 2 is scheduled for week 12.
+Q027,0.4641176470588235,False,"The provided context does not specify the lecture time for Group E, stating only to refer to the official timetable."
+Q052,0.5142857142857142,True,CAT 2 is scheduled for week 8.
+Q194,0.486502145318424,True,"Coursework (CAT 1 & 2, Assignments & Quizzes, and Lab Assignments) accounts for 40% of the total grade."
+Q050,0.5320754716981132,True,"Plagiarism is a serious offence in this course. If detected, the consequences depend on the severity: for partial or non-serious cases, half the total possible marks of the assignment are struck off. For serious cases, such as whole duplication of a paper, a zero policy applies where all offending assignments are awarded a mark of zero. The level of seriousness is determined at the lecturer's discretion, and appeals are possible."
+Q103,0.5549999999999999,True,"Announcements and course materials such as lecture notes, slides, and CAT revisions will be posted on the e-learning system at www.elearning.strathmore.edu."
+Q240,0.5142857142857142,True,CAT 2 is scheduled for week 10.
+Q177,0.4714285714285714,True,CAT 1 is scheduled for week 5.
+Q280,0.0,True,
+Q017,0.4588235294117647,True,"You can contact the lecturer, Alice Muia, via email at amuia@strathmore.edu or by visiting the Jasiri Staff room."
+Q158,0.0,True,
+Q303,0.0,True,
+Q196,0.5617021276595744,True,"If plagiarism is detected in course work and assignments, the following applies: in partial or non-serious cases, half the total possible marks of the assignment are struck off. In serious cases, such as whole duplication of a paper, a zero policy applies where all offending assignments are awarded a mark of zero. The level of seriousness is at the discretion of the lecturer."
+Q138,0.0,True,
+Q172,0.55,True,"The Final Documentation is due on July 7th, 2026, at 11 am."
+Q076,0.0,True,
+Q090,0.46799999999999997,True,"The coursework/continuous assessment (which includes CAT 1, CAT 2, CAT 3/Term Project, and Labs & Assignments) accounts for 40% of the total grade for the ICS 2203 Advanced Networking course."
+Q176,0.13588235294117645,True,The provided context does not contain information regarding the plagiarism policy for the course ICS 3102 Mobile Application Development.
+Q096,0.44999999999999996,True,"CAT 1, CAT 2, and CAT 3 each account for 10% of the grade, and Labs & Assignments account for 10%, totaling 40% for Course Work."
+Q035,0.0,False,
+Q070,0.0,True,
+Q204,0.55,True,The total coursework weighting is 40%.
+Q137,0.5928491926193238,True,"The pre-requisites for ICS 2204 are Introduction to Programming, Data Structures and Algorithms, Object-Oriented Programming I & II, Web Application Development, Database Systems, System Analysis and Design/Software Engineering, and Communication Skills I & II."
+Q178,0.0,True,
+Q167,0.0,True,
+Q271,0.48,True,"The communication channels used by the lecturer are E-mail (for making appointments or informing of absenteeism), E-Learning Forums, and the Module Leader."
+Q125,0.5115749359130859,True,"Yes, you need to have completed ICS 1102: Object Oriented Programming I and ICS 1104: Discrete Mathematics as prerequisites."
+Q290,0.4714285714285714,True,The examination accounts for 60% of the final grade in ICS 3102 Mobile Application Development.
+Q263,0.0,True,
+Q326,0.15,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q171,0.5818181818181818,True,"The course lists five core reading materials: 1) Guha, S., 2022. Computer Graphics Through OpenGL®: From Theory to Experiments (4th Ed.); 2) Marschner, S. and Shirley, P., 2021. Fundamentals of Computer Graphics (5th Ed.); 3) Gordon, V.S. and Clevenger, J.L., 2023. Computer Graphics Programming in OpenGL with C++ (3rd Ed.); 4) Lehn, K., Gotzes, M. and Klawonn, F., 2023. Introduction to Computer Graphics: Using OpenGL and Java (3rd Ed.); and 5) Pharr, M., Jakob, W. and Humphreys, G., 2023. Physically Based Rendering: From Theory to Implementation (4th Ed.)."
+Q316,0.435,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q234,0.5142857142857142,True,CAT 1 is scheduled for week 6.
+Q207,0.0,True,
+Q038,0.1711764705882353,True,The provided context does not contain information regarding the consequences of plagiarism in the HHE 3208 Business Ethics course.
+Q092,0.5425531914893617,True,"Plagiarism is considered a serious offence. In partial or non-serious cases, half the total possible marks of the assignment are struck off. In serious cases, such as whole duplication of a paper, a zero policy applies where all offending assignments are awarded a mark of zero. The level of seriousness is determined at the discretion of the lecturer, and appeals are possible through relevant channels."
+Q166,0.55,True,"The Proposal Document is due on May 22nd, 2026, at 3:00 pm."
+Q338,0.12,False,The provided context does not contain information regarding whether a supplementary or resit exam is offered if a student fails the course.
+Q257,0.43999999999999995,True,"No, WhatsApp is not an acceptable communication channel; the course outline explicitly states '(NO WhatsApp)'."
+Q235,0.5,True,The examination accounts for 60% of the final grade in ICS 1201 Data Structures and Algorithms.
+Q254,0.51,True,The Final Oral Presentation is worth 35% of the total marks.
+Q058,0.42,True,The second CAT (CAT 2) is scheduled for weeks 9-11.
